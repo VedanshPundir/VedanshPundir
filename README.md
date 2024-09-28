@@ -16,8 +16,7 @@
 <img src="images/png-clipart-the-c-programming-language-programmer-computer-programming-programming-blue-logo.png" alt="C++" width="40" height="40"/>
 <img src="images/javascript.svg" alt="Java" width="40" height="40"/>
 <img src="images/png-transparent-angular-js-full-logo-tech-companies.png" alt="Java" width="40" height="40"/>
-=======
->>>>>>> d66ab0198995f36ef564b66694d057b3d35be5bf
+
 
 
 
