@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring concepts of DSA, reading about international relations, and am a fan of basketball and badminton!
 
+![Java](images/java.svg)
 
 <!---
 VedanshPundir/VedanshPundir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
