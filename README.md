@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to Cyber Security, Java Development, and open-source initiatives.
 - 📫 How to reach me: You can contact me via email at vedanshpundir43@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vedansh-pundir-03129524a/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring geopolitics, reading about international relations, and am a fan of basketball and badminton!
+- ⚡ Fun fact: I enjoy exploring concepts of DSA, reading about international relations, and am a fan of basketball and badminton!
 
 
 <!---
