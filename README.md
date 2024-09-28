@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring concepts of DSA, reading about international relations, and am a fan of basketball and badminton!
 
-## 🧑‍💻 Programming Languages
+
 
 ## 🧑‍💻 Programming Languages
 
