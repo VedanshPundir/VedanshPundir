@@ -9,12 +9,12 @@
 ## 🧑‍💻 Programming Languages
 
 <p align="left">
-  <img src="images/java.svg" alt="Java" width="60" height="60"/>
-<img src="images/c.svg" alt="C" width="60" height="60"/>
-<img src="images/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png" alt="cpp" width="60" height="60"/>
-<img src="images/python.svg" alt="Python" width="60" height="60"/>
-<img src="images/javascript.svg" alt="JS" width="60" height="60"/>
-<img src="images/png-transparent-angular-js-full-logo-tech-companies.png" alt="AS" width="40" height="40"/>
+  <img src="images/java.svg" alt="Java" width="40" height="40"/>
+<img src="images/c.svg" alt="C" width="40" height="40"/>
+<img src="images/python.svg" alt="Java" width="40" height="40"/>
+<img src="images/png-clipart-the-c-programming-language-programmer-computer-programming-programming-blue-logo.png" alt="C++" width="40" height="40"/>
+<img src="images/javascript.svg" alt="Java" width="40" height="40"/>
+<img src="images/png-transparent-angular-js-full-logo-tech-companies.png" alt="Java" width="40" height="40"/>
 
 
 </p>
