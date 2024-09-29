@@ -15,13 +15,12 @@
 <img src="images/python.svg" alt="Java" width="60" height="60"/>
 <img src="images/png-clipart-the-c-programming-language-programmer-computer-programming-programming-blue-logo.png" alt="C++" width="60" height="60"/>
 <img src="images/javascript.svg" alt="Java" width="60" height="60"/>
-<img src="images/png-transparent-angular-js-full-logo-tech-companies.png" alt="Java" width="60" height="60"/>
+<img src="images/angular.svg" alt="Java" width="60" height="60"/>
 </p>
 
 ## 🌎 Web-Development
-<p align="left">
-
 Front-end:
+<p align="left">
 <img src="images/html5.svg" alt="Java" width="60" height="60"/>
 <img src="images/css3.svg" alt="Java" width="60" height="60"/>
 <img src="images/angular.svg" alt="Java" width="60" height="60"/>
