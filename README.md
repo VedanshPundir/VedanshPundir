@@ -1,10 +1,10 @@
 -<h1>👋 Hi, I’m @VedanshPundir</h1><img align="right" src="images/hello.gif" width="200"/>
-<h3>- 👀 I’m interested in Cyber Security and Software Development.
+- 👀 I’m interested in Cyber Security and Software Development.
 - 🌱 I’m currently learning advanced concepts in Cyber Security and working on projects involving Java, C++, and network scanning tools.
 - 💞️ I’m looking to collaborate on projects related to Cyber Security, Java Development, and open-source initiatives.
 - 📫 How to reach me: You can contact me via email at vedanshpundir43@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vedansh-pundir-03129524a/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring concepts of DSA, reading about international relations, and am a fan of basketball and badminton!</h3>
+- ⚡ Fun fact: I enjoy exploring concepts of DSA, reading about international relations, and am a fan of basketball and badminton!
 
 
 ## 🧑‍💻 Programming Languages
