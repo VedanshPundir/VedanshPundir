@@ -1,5 +1,5 @@
--<img align="right" src="images/hello.gif" width="200"/> 
 -<h1>👋 Hi, I’m @VedanshPundir</h1>
+<img align="right" src="images/hello.gif" width="200"/>
 - 👀 I’m interested in Cyber Security and Software Development.
 - 🌱 I’m currently learning advanced concepts in Cyber Security and working on projects involving Java, C++, and network scanning tools.
 - 💞️ I’m looking to collaborate on projects related to Cyber Security, Java Development, and open-source initiatives.
