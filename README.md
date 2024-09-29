@@ -10,7 +10,7 @@
 ## 🧑‍💻 Programming Languages
 
 <p align="left">
-  <img src="images/java.svg" alt="Java" width="65" height="65"/>
+  <img src="images/java.svg" alt="Java" width="75" height="75"/>
 <img src="images/c.svg" alt="C" width="65" height="65"/>
 <img src="images/python.svg" alt="Java" width="65" height="65"/>
 <img src="images/c++ (1).svg" alt="C++" width="65" height="65"/>
