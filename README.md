@@ -27,6 +27,11 @@ Front-end:
 <img src="images/javascript.svg" alt="Java" width="70" height="70"/>
 </p>
 
+## Integreated Development Enviroment
+<p align="left">
+<img src="images/vscode.svg" alt="Java" width="60" height="60"/>
+<img src="images/git.svg" alt="Java" width="60" height="60"/>
+</p>
 
 
 
