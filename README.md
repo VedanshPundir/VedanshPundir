@@ -13,8 +13,8 @@
   <img src="images/java.svg" alt="Java" width="60" height="60"/>
 <img src="images/c.svg" alt="C" width="60" height="60"/>
 <img src="images/python.svg" alt="Java" width="60" height="60"/>
-<img src="images/png-clipart-the-c-programming-language-programmer-computer-programming-programming-blue-logo.png" alt="C++" width="60" height="60"/>
-<img src="images/javascript.svg" alt="Java" width="60" height="60"/>
+<img src="images/c++ (1).svg" alt="C++" width="60" height="60"/>
+<img src="images/javascript.svg" alt="Java" width="70" height="70"/>
 <img src="images/angular.svg" alt="Java" width="60" height="60"/>
 </p>
 
