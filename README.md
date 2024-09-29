@@ -24,7 +24,7 @@ Front-end:
 <img src="images/html5.svg" alt="Java" width="60" height="60"/>
 <img src="images/css3.svg" alt="Java" width="60" height="60"/>
 <img src="images/angular.svg" alt="Java" width="60" height="60"/>
-<img src="images/javascript.svg" alt="Java" width="60" height="60"/>
+<img src="images/javascript.svg" alt="Java" width="70" height="70"/>
 </p>
 
 
