@@ -5,6 +5,8 @@
 - 📫 How to reach me: You can contact me via email at vedanshpundir43@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vedansh-pundir-03129524a/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring concepts of DSA, reading about international relations, and am a fan of basketball and badminton!
+  <h2>Hacktoberfest 2024 badges:</h2>
+- [![An image of @vedanshpundir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanshpundir)](https://holopin.io/@vedanshpundir)
 
 
 ## 🧑‍💻 Programming Languages
