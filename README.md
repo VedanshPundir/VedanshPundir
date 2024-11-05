@@ -8,6 +8,14 @@
   <h2>Hacktoberfest 2024 badges:</h2>
 - [![An image of @vedanshpundir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedanshpundir)](https://holopin.io/@vedanshpundir)
 
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedanshPundir&show_icons=true)
+
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshPundir)
+
+     ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=VedanshPundir)
+
+     ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VedanshPundir&row=1&column=6)
+
 
 ## 🧑‍💻 Programming Languages
 
